@@ -8,6 +8,7 @@ public class Sisifo extends Pessoa {
 		this.forca = forca;
 	}
 
+	//Getters and Setters
 	public int getForca() {
 		return forca;
 	}

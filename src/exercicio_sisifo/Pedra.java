@@ -6,7 +6,8 @@ public class Pedra {
 	public Pedra(int peso) {
 		this.peso = peso;
 	}
-
+	
+	//Getters and Setters
 	public int getPeso() {
 		return peso;
 	}
