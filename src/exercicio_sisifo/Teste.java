@@ -2,6 +2,7 @@ package exercicio_sisifo;
 
 public class Teste {
 
+	// Classe para testes
 	public static void main(String[] args) {
 		Sisifo sisifo = new Sisifo("Sisifo", 30, 100);
 		Pedra pedra = new Pedra(80);
